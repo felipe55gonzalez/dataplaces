@@ -12,12 +12,13 @@
             "long": -100.9545388
         }
     ,
-    "comidas": [
+    "Tags": [
         "tacos",
         "hamburgesas",
         "milanesa",
         "bisteck"
-    ]
+    ],
+    "linkgit":""        
 },
 {
     "ID": 3,

@@ -1,0 +1,19 @@
+{
+"Informacion":"Restaurant el tapatio",
+"Menu":[
+    {
+        "Nombre":"Tacos Naturales",
+        "Descripcion": "Tacos dorados con crema, repollo, tomate y jalapeño",
+        "Precio":"43",
+        "Img":"https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/93489624_2934384053295223_1981188849375641600_n.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=4UqE7XEOh-kAX-b0utD&_nc_ht=scontent.fntr6-1.fna&oh=bd0c5ad9e0cd108b33130e5aa39b37fc&oe=5EBF871D"
+    
+    },
+    {
+        "Nombre":"Tacos Rancheros",
+        "Descripcion": "Tacos dorados con crema, salsa Rancher, lechuga y queso panela",
+        "Precio":"43",
+        "Img":"https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/93489624_2934384053295223_1981188849375641600_n.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=4UqE7XEOh-kAX-b0utD&_nc_ht=scontent.fntr6-1.fna&oh=bd0c5ad9e0cd108b33130e5aa39b37fc&oe=5EBF871D"
+    }
+]
+
+}
