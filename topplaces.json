@@ -1,25 +1,26 @@
-[{
+[
+    {
     "ID": 1,
     "name": "Tapatio #1",
     "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/92673043_3195588403787788_7207010575010758656_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vq4ikwbJJwcAX_C9BgH&_nc_ht=scontent-lax3-1.xx&oh=9b8235452e81c3122fd74f2c5e7fa564&oe=5EBD5E27",
-    "Tags": [
+    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
+ "Tags": [
         "tacos",
         "hamburgesas",
         "milanesa",
         "bisteck"
-    ],
-    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json"        
+        ]   
 },
 {
     "ID": 1,
     "name": "Tapatio #1",
     "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/92673043_3195588403787788_7207010575010758656_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vq4ikwbJJwcAX_C9BgH&_nc_ht=scontent-lax3-1.xx&oh=9b8235452e81c3122fd74f2c5e7fa564&oe=5EBD5E27",
-    "Tags": [
-        "tacos",
-        "hamburgesas",
-        "milanesa",
-        "bisteck"
-    ],
-    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json"        
-}
+    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
+        "Tags": [
+            "tacos",
+            "hamburgesas",
+            "milanesa",
+            "bisteck"
+                 ]
+    }
 ]
