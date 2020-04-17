@@ -20,7 +20,7 @@
         "milanesa",
         "bisteck"
     ],
-    "linkgit":"" 
+    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json"        
 },
 {
     "ID": 1,
@@ -32,6 +32,6 @@
         "milanesa",
         "bisteck"
     ],
-    "linkgit":"" 
+    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json"        
 }
 ]
