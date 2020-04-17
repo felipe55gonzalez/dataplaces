@@ -1,17 +1,7 @@
 [{
     "ID": 1,
     "name": "Tapatio #1",
-    "telefono": "8777726697",
-    "Whatsapp":"8777726697",
-    "Facebook": "https://www.facebook.com/TapatioAcuna/",
-    "Fb":"fb://page/289115561155432",
     "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/92673043_3195588403787788_7207010575010758656_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vq4ikwbJJwcAX_C9BgH&_nc_ht=scontent-lax3-1.xx&oh=9b8235452e81c3122fd74f2c5e7fa564&oe=5EBD5E27",
-    "cordenadas": 
-        {
-            "lat": 29.319240,
-            "long": -100.9545388
-        }
-    ,
     "Tags": [
         "tacos",
         "hamburgesas",
@@ -21,41 +11,27 @@
     "linkgit":""        
 },
 {
-    "ID": 3,
-    "name": "chilakas",
-    "telefono": "877772",
-    "Facebook": "https://www.facebook.com/tapatio4/?ref=br_rs",
-    "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s960x960/71268534_2635842083145230_4502424541498179584_o.jpg?_nc_cat=108&_nc_ohc=EVsFS5VTROIAX-fZTGw&_nc_ht=scontent-lax3-1.xx&oh=fd2dfa286ba3609dd33a4b959374639a&oe=5ED60E07",
-    "cordenadas": 
-        {
-            "lat": 29.319240,
-            "long": -100.9545388
-        }
-    ,
-    "comidas": [
+    "ID": 1,
+    "name": "Tapatio #1",
+    "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/92673043_3195588403787788_7207010575010758656_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vq4ikwbJJwcAX_C9BgH&_nc_ht=scontent-lax3-1.xx&oh=9b8235452e81c3122fd74f2c5e7fa564&oe=5EBD5E27",
+    "Tags": [
         "tacos",
         "hamburgesas",
         "milanesa",
         "bisteck"
-    ]
-    },
-    {
-        "ID": 4,
-        "name": "fritos",
-        "telefono": "877772",
-        "Facebook": "https://www.facebook.com/tapatio4/?ref=br_rs",
-        "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/84118794_487407718625630_7476774382791032832_n.jpg?_nc_cat=110&_nc_ohc=RASMLoUw5Q8AX_yS37w&_nc_ht=scontent-lax3-1.xx&oh=239158b6863f6c4087953004b6986161&oe=5ED6C755",
-        "cordenadas": 
-            {
-                "lat": 29.319240,
-                "long": -100.9545388
-            }
-        ,
-        "comidas": [
-            "tacos",
-            "hamburgesas",
-            "milanesa",
-            "bisteck"
-        ]
-        }
+    ],
+    "linkgit":"" 
+},
+{
+    "ID": 1,
+    "name": "Tapatio #1",
+    "Img": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/92673043_3195588403787788_7207010575010758656_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vq4ikwbJJwcAX_C9BgH&_nc_ht=scontent-lax3-1.xx&oh=9b8235452e81c3122fd74f2c5e7fa564&oe=5EBD5E27",
+    "Tags": [
+        "tacos",
+        "hamburgesas",
+        "milanesa",
+        "bisteck"
+    ],
+    "linkgit":"" 
+}
 ]
