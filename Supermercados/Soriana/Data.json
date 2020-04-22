@@ -1,0 +1,65 @@
+{
+    "Informacion":"Bodega Aurrera",
+    "telefono": "",
+    "Whatsapp":"",
+    "Facebook": "https://www.facebook.com/BodegaAurrera/",
+    "Fb":"fb://page/513145735516432",
+    "cordenadas": 
+    {
+        "lat": 29.319240,
+        "long": -100.9545388
+    },
+    "Galeria":[
+        "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/p960x960/93035257_1599874593510202_8752060755496402944_o.png?_nc_cat=107&_nc_sid=8024bb&_nc_eui2=AeGcfyQiotD2b3myaP-fQoPCeJXyfqIQNxd4lfJ-ohA3F-wm0pRBGjROjaMQ-WxRXW285F7MSzE63fAOI1OedR2X&_nc_ohc=DQpZP0PU18QAX-x6ize&_nc_ht=scontent.fntr6-1.fna&oh=24562695a296edfad70efda599ebd53a&oe=5EC63753",
+        "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/p960x960/90107319_1580617228769272_1373343027283623936_o.png?_nc_cat=111&_nc_sid=8024bb&_nc_eui2=AeHxCwVWjLh_thzA8cohCtNUKmNBLKmQs-4qY0EsqZCz7nrACqOk8cq95zYv8hFyXeuHvywZ88QdpASqOsRA_WEa&_nc_ohc=e68fPQ4EjWQAX_SLbVF&_nc_ht=scontent-lax3-2.xx&oh=80fc5bb513dee5a3ffa5d182b6e1dd75&oe=5EC56E66",
+        "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s960x960/89497501_1567036416794020_9050874480821272576_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_eui2=AeGPQu5kkRlzLRQA_r5nYoUldYz7Wiu2ZHZ1jPtaK7ZkdhK0tFBun-qyrgfhxU7Yak1UNH1-IhQIAsKBtnP_nLNi&_nc_ohc=rv_sN1GPn5IAX-epIXS&_nc_ht=scontent-lax3-1.xx&_nc_tp=7&oh=0d8034873ddc1d5d956909df38bdb8a5&oe=5EC5326F",
+        "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/p960x960/89219517_1561253944038934_433375222507241472_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_eui2=AeHB1G2Q8cLn8nrCIivitslMp4foCYUS30Knh-gJhRLfQkP53QpJbOzTGd2_ITKlYXD28lPZWbq9_I_TbdJT0RGI&_nc_ohc=bNANlz-sYWAAX8moUfX&_nc_ht=scontent.fntr6-1.fna&_nc_tp=6&oh=814047d24d19487ecaf45f6f3ecc7098&oe=5EC6B535"
+    ],
+    "Menu":
+        {
+            "categorias":[
+                {
+                    "nombre":"Verduras",
+                    "Lista":[
+                                    
+                                {
+                                    "Nombre":"Tomate bola",
+                                    "Descripcion": "Precio por Kilo",
+                                    "Precio":"43",
+                                    "Img":"https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s960x960/89767881_1567036380127357_3721416633147719680_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_eui2=AeFLFA-PWJ9vsJ9_LhJxixy-CoJqnvKuSiAKgmqe8q5KIB-sDgd0oQFDblqQ0X3MFp_2yYnEotW8PPt1-ZtrvP6T&_nc_ohc=g8S9bQ8XCoMAX83cDRc&_nc_ht=scontent-lax3-1.xx&_nc_tp=7&oh=4c1ed0df9f352af802702296700b6377&oe=5EC6653E"
+                                
+                                },
+                                {
+                                    "Nombre":"Aguacate",
+                                    "Descripcion": "Precio por Kilo",
+                                    "Precio":"43",
+                                    "Img":"https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/s960x960/89015057_1567036370127358_1562809728520683520_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_eui2=AeHtEK0ruirMqD-cTtEL9G402IldISpkPpPYiV0hKmQ-k9MqEVoRkmSTuf6uSch5gempNJUATHpi1jcdXY2OlvCK&_nc_ohc=qYaAZmNm1dgAX-XiJvw&_nc_ht=scontent.fntr6-1.fna&_nc_tp=7&oh=253b4277f69a89d9239d5c559ed68506&oe=5EC586D2"
+                                }
+                             ]
+                },  
+                {
+                    "nombre":"Frutas",
+                    "Lista":[
+                                    
+                              {
+                                    "Nombre":"Mango",
+                                    "Descripcion": "Precio por Kilo",
+                                    "Precio":"43",
+                                    "Img":"https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s960x960/89767881_1567036380127357_3721416633147719680_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_eui2=AeFLFA-PWJ9vsJ9_LhJxixy-CoJqnvKuSiAKgmqe8q5KIB-sDgd0oQFDblqQ0X3MFp_2yYnEotW8PPt1-ZtrvP6T&_nc_ohc=g8S9bQ8XCoMAX83cDRc&_nc_ht=scontent-lax3-1.xx&_nc_tp=7&oh=4c1ed0df9f352af802702296700b6377&oe=5EC6653E"
+                                
+                                },
+                                {
+                                    "Nombre":"Uvas",
+                                    "Descripcion": "Precio por Kilo",
+                                    "Precio":"43",
+                                    "Img":"https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/s960x960/89015057_1567036370127358_1562809728520683520_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_eui2=AeHtEK0ruirMqD-cTtEL9G402IldISpkPpPYiV0hKmQ-k9MqEVoRkmSTuf6uSch5gempNJUATHpi1jcdXY2OlvCK&_nc_ohc=qYaAZmNm1dgAX-XiJvw&_nc_ht=scontent.fntr6-1.fna&_nc_tp=7&oh=253b4277f69a89d9239d5c559ed68506&oe=5EC586D2"
+                                }
+                             ]
+
+                }
+                
+
+    ]
+        }
+    
+    }
