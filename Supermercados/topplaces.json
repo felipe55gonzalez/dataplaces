@@ -1,0 +1,55 @@
+[
+    {
+    "ID": 1,
+    "name": "Super Gutierrez",
+    "Dirreccion" :"4 Sucursales",
+    "Img": "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/32267504_1683901918311864_6650952738429468672_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_eui2=AeGw9afC_AQqrcKXggFkWvQ6-hHJx7YBad76EcnHtgFp3nMhEHzZOHVteBm0XmwPtbSVoxgNtZVAINCuIu_bsPvp&_nc_ohc=fREbYoq8M1QAX-clGvZ&_nc_ht=scontent.fntr6-1.fna&oh=b3cd13eb296b84565e32fbe50e2e6370&oe=5EC444E5",
+    "linkgit":"",
+    "Tags": [
+        "Despensa",
+        "Mandado",
+        "Frutas",
+        "Verduras"
+             ]
+        
+},
+{
+    "ID": 2,
+    "name": "Soriana",
+    "Dirreccion" :"",
+    "Img": "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/88114641_2872286176150221_7339260417715208192_n.png?_nc_cat=1&_nc_sid=85a577&_nc_eui2=AeE-V-TP95Ey5-FKwMS8i_9nXwMA-Atmz6dfAwD4C2bPp0vVaeyFrcsh6Qf8Cp8Oz0p-RtwuzQTPROSX3pV9KOms&_nc_ohc=hHyxLIepk4cAX-ZH9k4&_nc_ht=scontent.fntr6-1.fna&oh=f395700a72f9968761aaa7fb04c9b854&oe=5EC6171B",
+    "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
+    "Tags": [
+        "Despensa",
+        "Mandado",
+        "Frutas",
+        "Verduras"
+             ]
+},
+{
+        "ID": 4,
+        "name": "Bodega Aurrera",
+        "Dirreccion" :"",
+        "Img": "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/93913316_1605109982986663_292560132682809344_n.png?_nc_cat=1&_nc_sid=85a577&_nc_eui2=AeFwehxMe1b1fzuHEww3i2kc4gPhA7jloqfiA-EDuOWip2s-606_4L6Fo0KMBtxUVC9uG2oQlO8hL1Ur9qY0vMX2&_nc_ohc=u7zdHGpg86QAX85_KSm&_nc_ht=scontent.fntr6-1.fna&oh=b2bf87e0241966687678e8255b857b6f&oe=5EC50D19",
+        "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
+            "Tags": [
+                "Despensa",
+                "Mandado",
+                "Frutas",
+                "Verduras"
+                     ]
+},
+{
+        "ID": 5,
+        "name": "Merco",
+        "Dirreccion" :"",
+        "Img": "https://scontent.fntr6-1.fna.fbcdn.net/v/t31.0-8/p960x960/10540950_708056742602865_2976298968345583523_o.jpg?_nc_cat=102&_nc_sid=85a577&_nc_eui2=AeE2uTMzC6wDcZddGhWcBhetdh-3jzN26Bx2H7ePM3boHOlnq-etm-YC_seKKT-YWG1KFawNO3QnV-_k0-kGJ88L&_nc_ohc=WQ-1-MsjxuUAX_Ga_jN&_nc_ht=scontent.fntr6-1.fna&_nc_tp=6&oh=b2aac540387bdde3a78a7d181934eba4&oe=5EC4DAE1",
+        "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
+            "Tags": [
+                "Despensa",
+                "Mandado",
+                "Frutas",
+                "Verduras"
+                     ]
+}
+]

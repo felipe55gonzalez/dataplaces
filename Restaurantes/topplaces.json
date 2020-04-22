@@ -24,18 +24,5 @@
             "milanesa",
             "bisteck"
                  ]
-    },
-    {
-        "ID": 3,
-        "name": "Super Gutierrez",
-        "Dirreccion" :"",
-        "Img": "https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/32267504_1683901918311864_6650952738429468672_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_eui2=AeGw9afC_AQqrcKXggFkWvQ6-hHJx7YBad76EcnHtgFp3nMhEHzZOHVteBm0XmwPtbSVoxgNtZVAINCuIu_bsPvp&_nc_ohc=fREbYoq8M1QAX-clGvZ&_nc_ht=scontent.fntr6-1.fna&oh=b3cd13eb296b84565e32fbe50e2e6370&oe=5EC444E5",
-        "linkgit":"https://raw.githubusercontent.com/felipe55gonzalez/dataplaces/master/Places/Tapatio%231/Data.json",
-            "Tags": [
-                "Despensa",
-                "Mandado",
-                "Frutas",
-                "Verduras"
-                     ]
-        }
+    }
 ]
